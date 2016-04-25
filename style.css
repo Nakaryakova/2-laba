@@ -47,15 +47,15 @@ section {margin-top: 20px; padding: 10px 40px; /*Отступы*/
  border-radius:5px; /*Скругленные углы*/ }
  
 /*Заголовок всех блоков*/
-section h1 {text-align: center; /*Выровнять по центру*/
+section h3 {text-align: center; /*Выровнять по центру*/
  color: #60959C; /*Цвет текста*/ }
  
 /*Заголовки в блоках "О клинике","Запись"*/
-section h2 {font: 20px Arial; /*Шрифт*/
+section h4 {font: 20px Arial; /*Шрифт*/
  color: #60959C; /*Цвет*/}
  
 /*Заголовки "Лечение ..."*/
-section h3 {padding:15px; margin-left: 50px;/*Отступы*/
+section h5 {padding:15px; margin-left: 50px;/*Отступы*/
  color: #60959C; /*Цвет*/
  font: 20px Arial; /*Шрифт*/}
  
